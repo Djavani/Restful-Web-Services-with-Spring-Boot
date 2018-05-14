@@ -1,4 +1,4 @@
-insert into user values (1, sysdate(), 'AB');
-insert into user values (2, sysdate(), 'Jack');
-insert into user values (3, sysdate(), 'Explicador');
-insert into user values (4, sysdate(), 'Lourenço');
+insert into user values (100001, sysdate(), 'AB');
+insert into user values (100002, sysdate(), 'Jack');
+insert into user values (100003, sysdate(), 'Explicador');
+insert into user values (100004, sysdate(), 'Lourenço');
